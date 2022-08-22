@@ -1,0 +1,3 @@
+# NvChad
+# Custom confiig
+
